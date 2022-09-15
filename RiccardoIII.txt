@@ -18,7 +18,7 @@ Soccorso, nobile signore, o la giornata è persa.
 
 Allarmi. Entra re Riccardo.
 
-RE RICCARDO
+RE RICCARDO III
 
 Un cavallo un cavallo! il mio regno per un cavallo!
 
@@ -26,16 +26,16 @@ CATESBY
 
 Ritiratevi, monsignore; v’aiuterò io a trovar un cavallo!
 
-RE RICCARDO
+RE RICCARDO III
 
-Vigliacco! Ho puntato la mia vita su una giocata,
+Schiavo, ho posto la mia vita su un calco,
 
-e accetterò il rischio del dado.
+E sopporterò il rischio del dado: [giusta]
 
-Credo che ci siano sei Richmond sul campo:
+Penso che ci siano sei Richmond in campo;
 
-cinque ne ho uccisi oggi, invece di lui.
+Oggi ne ho uccisi cinque al posto di lui.
 
-Un cavallo! Un cavallo! Il mio regno per un cavallo!
+Un cavallo! un cavallo! il mio regno per un cavallo!
 
 [Escono].
