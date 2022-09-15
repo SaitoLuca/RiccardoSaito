@@ -1,8 +1,11 @@
-Clamori marziali. Scorrerie. Entrano (Norfolk e soldati, poi dall’altra porta) Catesby.
+
+Allarmi. Scorrerie di soldati. Entra NORFOLK con soldati, combattendo.
+
+Gli viene incontro di corsa CATESBY
 
 CATESBY
 
-Soccorso! Monsignore di Norfolk, soccorso, soccorso!
+Alla riscossa, milord di Norfolk, alla riscossa! [giusta]
 
 Il re fa prodigi sovrumani,
 
@@ -12,19 +15,25 @@ Gli hanno ucciso il cavallo, ed egli si batte a piedi, [giusta]
 
 cercando Richmond nella gola della morte.
 
-Soccorso, nobile signore, o la giornata è persa.
+o la giornata per noi è perduta. [giusta]
 
-(Escono Norfolk e soldati).
+(Escono Norfolk e soldati)
 
-Allarmi. Entra re Riccardo.
+Entra RE RICCARDO
 
 RE RICCARDO III
+	
+Un cavallo! Un cavallo!
 
-Un cavallo un cavallo! il mio regno per un cavallo!
+Il mio regno per un cavallo!
 
-CATESBY
+CATESBY 
+	
+Sire,
 
-Ritiratevi, monsignore; v’aiuterò io a trovar un cavallo!
+ritiratevi! Cerco io un cavallo
+
+per vostra altezza.
 
 RE RICCARDO III
 
