@@ -1,25 +1,19 @@
+
 Allarmi. Scorrerie di soldati. Entra NORFOLK con soldati, combattendo.
 
 Gli viene incontro di corsa CATESBY
 
-CATESBY 
-	
+CATESBY
 
-Correte, aiuto, signor di Norfolk!
+Alla riscossa, milord di Norfolk, alla riscossa! [giusta]
 
-Il re compie prodigi sovrumani
+Il re fa prodigi sovrumani,
 
-di valore, incurante d’ogni rischio.
+sfidando ad oltranza ogni avversario.
 
-Gli hanno ucciso il cavallo,
+Gli hanno ucciso il cavallo, ed egli si batte a piedi, [giusta]
 
-e lui, a piedi, seguita a combattere;
-
-e nell’ansia di battersi con Richmond
-
-si caccia nelle fauci della morte.
-
-Soccorretelo, nobile signore,
+cercando Richmond nella gola della morte.
 
 o la giornata per noi è perduta. [giusta]
 
@@ -27,35 +21,30 @@ o la giornata per noi è perduta. [giusta]
 
 Entra RE RICCARDO
 
-RICCARDO 
+RE RICCARDO III
 	
-
 Un cavallo! Un cavallo!
 
 Il mio regno per un cavallo!
 
 CATESBY 
 	
-
 Sire,
 
 ritiratevi! Cerco io un cavallo
 
 per vostra altezza.
 
-RICCARDO 
-	
+RE RICCARDO III
 
-Ho messo la mia vita come posta
+Schiavo, ho posto la mia vita su un calco,
 
-per un colpo di dadi, e starò al gioco.
+E sopporterò il rischio del dado: [giusta]
 
-Credo ci siano sei Richmond sul campo;
+Penso che ci siano sei Richmond in campo;
 
-cinque ne ho fatti fuori, quello no!
+Oggi ne ho uccisi cinque al posto di lui.
 
-Un cavallo! Un cavallo!
+Un cavallo! un cavallo! il mio regno per un cavallo!
 
-Il mio regno per un cavallo!
-
-(Escono tutti)
+[Escono].
